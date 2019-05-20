@@ -1,5 +1,5 @@
 # cd2019b
-協同產品設計實習課程 2019 Spring 乙班期末協同報告倉儲
+由 scrum-3 fork scrum-2 的 cd2019b, 準備 demo pull requests 操作
 
 http://scrum-1.github.io/cd2019b
 
